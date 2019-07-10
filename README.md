@@ -6,7 +6,6 @@
 # Source
 Data collected from https://www.prothomalo.com/archive [Copyright owned by the actual source]
 
-
 # Inspiration
 The dataset can be used for bangla text classification and generation experiments.
 
@@ -14,3 +13,4 @@ The dataset can be used for bangla text classification and generation experiment
 - [x] Starter Bidirectional LSTM (91% test accuracy) 
 - [x] Weight file https://bit.ly/30qHcxy
 - [ ] Starter Generative Model
+- [ ] Attention
