@@ -11,6 +11,6 @@ The dataset can be used for bangla text classification and generation experiment
 
 # Todo
 - [x] Starter Bidirectional LSTM (91% test accuracy) 
-- [x] Weight file https://bit.ly/30qHcxy (Trained with RTX-2080 Ti, tensorflow-gpu)
+- [x] Weight file https://bit.ly/30qHcxy (Trained with RTX-2080 Ti, tensorflow-gpu, keras)
 - [ ] Starter Generative Model
 - [ ] Attention
